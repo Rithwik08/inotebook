@@ -1,0 +1,30 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+.topmargin{
+    margin-top: 50px;
+    text-align: center;
+
+}
+.marg{
+    margin-top: 55px;
+    margin-bottom: 60px;
+}
+.marg img{
+    height: 4in;
+    width: 4in;
+}
+.heading h5{
+    font-size: 18px;
+    margin-top: 23px;
+}
+.heading{
+    padding-top: 2%;
+}
+.head1{
+    margin-top: 20px;
+    text-align: center;
+
+}
